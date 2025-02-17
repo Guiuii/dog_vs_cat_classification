@@ -4,6 +4,7 @@
 Проект по классификации изображений собак и кошек с использованием PyTorch и анализа эффекта L2-регуляризации.
 
 Примеры изображений для классификации:
+
 ![Examples](example_of_images.png)
 
 
@@ -91,9 +92,11 @@ cd dogs-vs-cats-classification
 ![Metrics with L2 regularization](plots/with_l2_regularization/metrics_plot.png)
 
 - Confusion matrix для модели без регуляризации
+  
 ![Confusion matrix without regularization](plots/without_regularization/confusion_matrix.png)
 
 - Confusion matrix для модели с L2-регуляризацией
+  
 ![Confusion matrix with L2 regularization](plots/with_l2_regularization/confusion_matrix.png)
 
 
