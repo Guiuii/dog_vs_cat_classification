@@ -62,6 +62,7 @@ cd dogs-vs-cats-classification
 
 
 ## Структура проекта
+```
 .
 ├── notebook.ipynb
 ├── config.yaml
@@ -82,6 +83,7 @@ cd dogs-vs-cats-classification
 │       ├── confusion_matrix.png
 │       └── metrics_plot.png
 └── example_of_images.png
+```
 
 ## Результаты
 
